@@ -2,7 +2,7 @@
 ;; -*- coding: utf-8 -*-
 
 ;;実行の仕方
-;;gosh Exercise1-4.scm
+;;gosh Exercise1-5.scm
 
 (print "Exercise1-5:")
 
