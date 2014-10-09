@@ -38,7 +38,7 @@
 (print "\ngood-enough?を変えると...\n")
 
 (define (good-enough? guess x)
-  (< (abs (/ (- (square guess) x) x)) 0.001))
+  (< (abs (/ (- (square guess) x) (* 2 x))) 0.001))
 
 (print "2の平方根")
 (print (sqrt 2))
