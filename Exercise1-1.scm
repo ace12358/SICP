@@ -1,10 +1,10 @@
 #!/usr/local/bin/gosh
 ;; -*- coding: utf-8 -*-
 
-;;実行の仕方
-;;gosh Exercise1-1.scm
+;実行の仕方
+;gosh Exercise1-1.scm
 
-;;最初なのでHello Worldのテスト
+;最初なのでHello Worldのテスト
 
 (print "Hello World")
 (print "SICPの勉強会です")
